@@ -1,4 +1,19 @@
 {
-  "chats": [],
-  "updatedAt": 1791090560324
+  "chats": [
+    {
+      "id": "c_1791090574688_fe3ll6",
+      "title": "Buatkan landing page sederhana dengan to...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Buatkan landing page sederhana dengan tombol gradient",
+          "time": "12:09"
+        }
+      ],
+      "model": "openai/gpt-4o-mini",
+      "createdAt": 1791090574688,
+      "updatedAt": 1791090574688
+    }
+  ],
+  "updatedAt": 1791090576826
 }
