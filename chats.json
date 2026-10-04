@@ -1,6 +1,25 @@
 {
   "chats": [
     {
+      "id": "c_1791095217942_467ctp",
+      "title": "halooo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "halooo",
+          "time": "13:26"
+        },
+        {
+          "role": "assistant",
+          "content": "Halo! 👋 Ada yang bisa aku bantu hari ini?",
+          "time": "13:27"
+        }
+      ],
+      "model": "openrouter/free",
+      "createdAt": 1791095217942,
+      "updatedAt": 1791095220590
+    },
+    {
       "id": "c_1791090585914_t0u6b7",
       "title": "Buatkan fungsi Python untuk menghitung f...",
       "messages": [
@@ -39,5 +58,5 @@
       "updatedAt": 1791090582085
     }
   ],
-  "updatedAt": 1791090638181
+  "updatedAt": 1791095347712
 }
